@@ -1,0 +1,7 @@
+E:\CODE CRITERIA\C#\Console applications\pizza_application\pizza_application\bin\Debug\pizza_application.exe.config
+E:\CODE CRITERIA\C#\Console applications\pizza_application\pizza_application\bin\Debug\pizza_application.exe
+E:\CODE CRITERIA\C#\Console applications\pizza_application\pizza_application\bin\Debug\pizza_application.pdb
+E:\CODE CRITERIA\C#\Console applications\pizza_application\pizza_application\obj\Debug\pizza_application.csproj.AssemblyReference.cache
+E:\CODE CRITERIA\C#\Console applications\pizza_application\pizza_application\obj\Debug\pizza_application.csproj.CoreCompileInputs.cache
+E:\CODE CRITERIA\C#\Console applications\pizza_application\pizza_application\obj\Debug\pizza_application.exe
+E:\CODE CRITERIA\C#\Console applications\pizza_application\pizza_application\obj\Debug\pizza_application.pdb

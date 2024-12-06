@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CODE CRITERIA\\C#\\Console applications\\dynamic_tables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66911497-518B-4020-95EC-5E0B7A0FE010}|dynamic_tables\\dynamic_tables.csproj|e:\\code criteria\\c#\\console applications\\dynamic_tables\\dynamic_tables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66911497-518B-4020-95EC-5E0B7A0FE010}|dynamic_tables\\dynamic_tables.csproj|solutionrelative:dynamic_tables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CODE CRITERIA\\C#\\Console applications\\dynamic_tables\\dynamic_tables\\Program.cs",
+              "RelativeDocumentMoniker": "dynamic_tables\\Program.cs",
+              "ToolTip": "E:\\CODE CRITERIA\\C#\\Console applications\\dynamic_tables\\dynamic_tables\\Program.cs",
+              "RelativeToolTip": "dynamic_tables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:31:46.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

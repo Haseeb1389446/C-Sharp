@@ -1,0 +1,7 @@
+E:\CODE CRITERIA\C#\Console applications\dynamic_tables\dynamic_tables\bin\Debug\dynamic_tables.exe.config
+E:\CODE CRITERIA\C#\Console applications\dynamic_tables\dynamic_tables\bin\Debug\dynamic_tables.exe
+E:\CODE CRITERIA\C#\Console applications\dynamic_tables\dynamic_tables\bin\Debug\dynamic_tables.pdb
+E:\CODE CRITERIA\C#\Console applications\dynamic_tables\dynamic_tables\obj\Debug\dynamic_tables.csproj.AssemblyReference.cache
+E:\CODE CRITERIA\C#\Console applications\dynamic_tables\dynamic_tables\obj\Debug\dynamic_tables.csproj.CoreCompileInputs.cache
+E:\CODE CRITERIA\C#\Console applications\dynamic_tables\dynamic_tables\obj\Debug\dynamic_tables.exe
+E:\CODE CRITERIA\C#\Console applications\dynamic_tables\dynamic_tables\obj\Debug\dynamic_tables.pdb

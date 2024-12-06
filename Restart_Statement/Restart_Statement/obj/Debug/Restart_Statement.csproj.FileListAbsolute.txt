@@ -1,0 +1,7 @@
+E:\CODE CRITERIA\C#\Console applications\Restart_Statement\Restart_Statement\bin\Debug\Restart_Statement.exe.config
+E:\CODE CRITERIA\C#\Console applications\Restart_Statement\Restart_Statement\bin\Debug\Restart_Statement.exe
+E:\CODE CRITERIA\C#\Console applications\Restart_Statement\Restart_Statement\bin\Debug\Restart_Statement.pdb
+E:\CODE CRITERIA\C#\Console applications\Restart_Statement\Restart_Statement\obj\Debug\Restart_Statement.csproj.AssemblyReference.cache
+E:\CODE CRITERIA\C#\Console applications\Restart_Statement\Restart_Statement\obj\Debug\Restart_Statement.csproj.CoreCompileInputs.cache
+E:\CODE CRITERIA\C#\Console applications\Restart_Statement\Restart_Statement\obj\Debug\Restart_Statement.exe
+E:\CODE CRITERIA\C#\Console applications\Restart_Statement\Restart_Statement\obj\Debug\Restart_Statement.pdb

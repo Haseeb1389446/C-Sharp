@@ -1,0 +1,7 @@
+E:\CODE CRITERIA\C#\Console applications\name_merger\name_merger\bin\Debug\name_merger.exe.config
+E:\CODE CRITERIA\C#\Console applications\name_merger\name_merger\bin\Debug\name_merger.exe
+E:\CODE CRITERIA\C#\Console applications\name_merger\name_merger\bin\Debug\name_merger.pdb
+E:\CODE CRITERIA\C#\Console applications\name_merger\name_merger\obj\Debug\name_merger.csproj.AssemblyReference.cache
+E:\CODE CRITERIA\C#\Console applications\name_merger\name_merger\obj\Debug\name_merger.csproj.CoreCompileInputs.cache
+E:\CODE CRITERIA\C#\Console applications\name_merger\name_merger\obj\Debug\name_merger.exe
+E:\CODE CRITERIA\C#\Console applications\name_merger\name_merger\obj\Debug\name_merger.pdb
