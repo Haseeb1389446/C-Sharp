@@ -1,0 +1,7 @@
+E:\CODE CRITERIA\C#\Console applications\C#_Arrays\C#_Arrays\bin\Debug\C#_Arrays.exe.config
+E:\CODE CRITERIA\C#\Console applications\C#_Arrays\C#_Arrays\bin\Debug\C#_Arrays.exe
+E:\CODE CRITERIA\C#\Console applications\C#_Arrays\C#_Arrays\bin\Debug\C#_Arrays.pdb
+E:\CODE CRITERIA\C#\Console applications\C#_Arrays\C#_Arrays\obj\Debug\C#_Arrays.csproj.AssemblyReference.cache
+E:\CODE CRITERIA\C#\Console applications\C#_Arrays\C#_Arrays\obj\Debug\C#_Arrays.csproj.CoreCompileInputs.cache
+E:\CODE CRITERIA\C#\Console applications\C#_Arrays\C#_Arrays\obj\Debug\C#_Arrays.exe
+E:\CODE CRITERIA\C#\Console applications\C#_Arrays\C#_Arrays\obj\Debug\C#_Arrays.pdb
