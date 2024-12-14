@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\CODE CRITERIA\\C#\\Console applications\\C#_Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00618825-420C-4933-BC7A-D1279FCC1D07}|C#_Arrays\\C#_Arrays.csproj|e:\\code criteria\\c#\\console applications\\c#_arrays\\c#_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00618825-420C-4933-BC7A-D1279FCC1D07}|C#_Arrays\\C#_Arrays.csproj|solutionrelative:c#_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CODE CRITERIA\\C#\\Console applications\\C#_Arrays\\C#_Arrays\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C#_Arrays\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,9 +22,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\CODE CRITERIA\\C#\\Console applications\\C#_Arrays\\C#_Arrays\\Program.cs",
               "RelativeDocumentMoniker": "C#_Arrays\\Program.cs",
-              "ToolTip": "E:\\CODE CRITERIA\\C#\\Console applications\\C#_Arrays\\C#_Arrays\\Program.cs*",
-              "RelativeToolTip": "C#_Arrays\\Program.cs*",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwEAAAAAiAAAAAAAAAA==",
+              "ToolTip": "E:\\CODE CRITERIA\\C#\\Console applications\\C#_Arrays\\C#_Arrays\\Program.cs",
+              "RelativeToolTip": "C#_Arrays\\Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T11:32:13.793Z",
               "EditorCaption": ""
