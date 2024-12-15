@@ -1,0 +1,7 @@
+E:\CODE CRITERIA\C#\Console applications\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.exe.config
+E:\CODE CRITERIA\C#\Console applications\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.exe
+E:\CODE CRITERIA\C#\Console applications\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.pdb
+E:\CODE CRITERIA\C#\Console applications\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csproj.AssemblyReference.cache
+E:\CODE CRITERIA\C#\Console applications\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csproj.CoreCompileInputs.cache
+E:\CODE CRITERIA\C#\Console applications\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.exe
+E:\CODE CRITERIA\C#\Console applications\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.pdb
