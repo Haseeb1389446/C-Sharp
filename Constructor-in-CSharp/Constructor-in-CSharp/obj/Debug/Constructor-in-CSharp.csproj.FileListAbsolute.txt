@@ -1,0 +1,7 @@
+E:\CODE CRITERIA\C#\Console applications\Constructor-in-CSharp\Constructor-in-CSharp\bin\Debug\Constructor-in-CSharp.exe.config
+E:\CODE CRITERIA\C#\Console applications\Constructor-in-CSharp\Constructor-in-CSharp\bin\Debug\Constructor-in-CSharp.exe
+E:\CODE CRITERIA\C#\Console applications\Constructor-in-CSharp\Constructor-in-CSharp\bin\Debug\Constructor-in-CSharp.pdb
+E:\CODE CRITERIA\C#\Console applications\Constructor-in-CSharp\Constructor-in-CSharp\obj\Debug\Constructor-in-CSharp.csproj.AssemblyReference.cache
+E:\CODE CRITERIA\C#\Console applications\Constructor-in-CSharp\Constructor-in-CSharp\obj\Debug\Constructor-in-CSharp.csproj.CoreCompileInputs.cache
+E:\CODE CRITERIA\C#\Console applications\Constructor-in-CSharp\Constructor-in-CSharp\obj\Debug\Constructor-in-CSharp.exe
+E:\CODE CRITERIA\C#\Console applications\Constructor-in-CSharp\Constructor-in-CSharp\obj\Debug\Constructor-in-CSharp.pdb

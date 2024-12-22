@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\CODE CRITERIA\\C#\\Console applications\\CSharp_Calculator\\",
+  "WorkspaceRootPath": "E:\\CODE CRITERIA\\C#\\Console applications\\Csharp_Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40378EEB-383E-4E32-9263-F6775A9595C9}|CSharp_Calculator\\CSharp_Calculator.csproj|e:\\code criteria\\c#\\console applications\\csharp_calculator\\csharp_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40378EEB-383E-4E32-9263-F6775A9595C9}|CSharp_Calculator\\CSharp_Calculator.csproj|solutionrelative:csharp_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CODE CRITERIA\\C#\\Console applications\\Csharp_Calculator\\CSharp_Calculator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharp_Calculator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\CODE CRITERIA\\C#\\Console applications\\CSharp_Calculator\\CSharp_Calculator\\Program.cs",
+              "DocumentMoniker": "E:\\CODE CRITERIA\\C#\\Console applications\\Csharp_Calculator\\CSharp_Calculator\\Program.cs",
               "RelativeDocumentMoniker": "CSharp_Calculator\\Program.cs",
-              "ToolTip": "E:\\CODE CRITERIA\\C#\\Console applications\\CSharp_Calculator\\CSharp_Calculator\\Program.cs",
+              "ToolTip": "E:\\CODE CRITERIA\\C#\\Console applications\\Csharp_Calculator\\CSharp_Calculator\\Program.cs",
               "RelativeToolTip": "CSharp_Calculator\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T11:36:33.833Z",
               "EditorCaption": ""
