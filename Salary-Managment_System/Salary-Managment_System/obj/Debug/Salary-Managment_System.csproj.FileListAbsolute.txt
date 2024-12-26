@@ -1,0 +1,7 @@
+E:\CODE CRITERIA\C#\Console applications\Salary-Managment_System\Salary-Managment_System\bin\Debug\Salary-Managment_System.exe.config
+E:\CODE CRITERIA\C#\Console applications\Salary-Managment_System\Salary-Managment_System\bin\Debug\Salary-Managment_System.exe
+E:\CODE CRITERIA\C#\Console applications\Salary-Managment_System\Salary-Managment_System\bin\Debug\Salary-Managment_System.pdb
+E:\CODE CRITERIA\C#\Console applications\Salary-Managment_System\Salary-Managment_System\obj\Debug\Salary-Managment_System.csproj.AssemblyReference.cache
+E:\CODE CRITERIA\C#\Console applications\Salary-Managment_System\Salary-Managment_System\obj\Debug\Salary-Managment_System.csproj.CoreCompileInputs.cache
+E:\CODE CRITERIA\C#\Console applications\Salary-Managment_System\Salary-Managment_System\obj\Debug\Salary-Managment_System.exe
+E:\CODE CRITERIA\C#\Console applications\Salary-Managment_System\Salary-Managment_System\obj\Debug\Salary-Managment_System.pdb
