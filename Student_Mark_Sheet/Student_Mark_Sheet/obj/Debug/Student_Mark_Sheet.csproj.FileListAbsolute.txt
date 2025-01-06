@@ -1,0 +1,7 @@
+E:\CODE CRITERIA\C#\Console applications\Student_Mark_Sheet\Student_Mark_Sheet\bin\Debug\Student_Mark_Sheet.exe.config
+E:\CODE CRITERIA\C#\Console applications\Student_Mark_Sheet\Student_Mark_Sheet\bin\Debug\Student_Mark_Sheet.exe
+E:\CODE CRITERIA\C#\Console applications\Student_Mark_Sheet\Student_Mark_Sheet\bin\Debug\Student_Mark_Sheet.pdb
+E:\CODE CRITERIA\C#\Console applications\Student_Mark_Sheet\Student_Mark_Sheet\obj\Debug\Student_Mark_Sheet.csproj.AssemblyReference.cache
+E:\CODE CRITERIA\C#\Console applications\Student_Mark_Sheet\Student_Mark_Sheet\obj\Debug\Student_Mark_Sheet.csproj.CoreCompileInputs.cache
+E:\CODE CRITERIA\C#\Console applications\Student_Mark_Sheet\Student_Mark_Sheet\obj\Debug\Student_Mark_Sheet.exe
+E:\CODE CRITERIA\C#\Console applications\Student_Mark_Sheet\Student_Mark_Sheet\obj\Debug\Student_Mark_Sheet.pdb
