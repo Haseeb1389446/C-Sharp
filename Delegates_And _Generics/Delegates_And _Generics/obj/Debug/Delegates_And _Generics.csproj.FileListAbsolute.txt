@@ -1,0 +1,7 @@
+E:\CODE CRITERIA\C#\Console applications\Delegates_And _Generics\Delegates_And _Generics\bin\Debug\Delegates_And _Generics.exe.config
+E:\CODE CRITERIA\C#\Console applications\Delegates_And _Generics\Delegates_And _Generics\bin\Debug\Delegates_And _Generics.exe
+E:\CODE CRITERIA\C#\Console applications\Delegates_And _Generics\Delegates_And _Generics\bin\Debug\Delegates_And _Generics.pdb
+E:\CODE CRITERIA\C#\Console applications\Delegates_And _Generics\Delegates_And _Generics\obj\Debug\Delegates_And _Generics.csproj.AssemblyReference.cache
+E:\CODE CRITERIA\C#\Console applications\Delegates_And _Generics\Delegates_And _Generics\obj\Debug\Delegates_And _Generics.csproj.CoreCompileInputs.cache
+E:\CODE CRITERIA\C#\Console applications\Delegates_And _Generics\Delegates_And _Generics\obj\Debug\Delegates_And _Generics.exe
+E:\CODE CRITERIA\C#\Console applications\Delegates_And _Generics\Delegates_And _Generics\obj\Debug\Delegates_And _Generics.pdb

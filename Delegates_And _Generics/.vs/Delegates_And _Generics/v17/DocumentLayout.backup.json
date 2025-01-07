@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CODE CRITERIA\\C#\\Console applications\\Delegates_And _Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01594487-0480-4B38-9C53-3DED490AFB0D}|Delegates_And _Generics\\Delegates_And _Generics.csproj|e:\\code criteria\\c#\\console applications\\delegates_and _generics\\delegates_and _generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01594487-0480-4B38-9C53-3DED490AFB0D}|Delegates_And _Generics\\Delegates_And _Generics.csproj|solutionrelative:delegates_and _generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01594487-0480-4B38-9C53-3DED490AFB0D}|Delegates_And _Generics\\Delegates_And _Generics.csproj|e:\\code criteria\\c#\\console applications\\delegates_and _generics\\delegates_and _generics\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01594487-0480-4B38-9C53-3DED490AFB0D}|Delegates_And _Generics\\Delegates_And _Generics.csproj|solutionrelative:delegates_and _generics\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "operations.cs",
+              "DocumentMoniker": "E:\\CODE CRITERIA\\C#\\Console applications\\Delegates_And _Generics\\Delegates_And _Generics\\operations.cs",
+              "RelativeDocumentMoniker": "Delegates_And _Generics\\operations.cs",
+              "ToolTip": "E:\\CODE CRITERIA\\C#\\Console applications\\Delegates_And _Generics\\Delegates_And _Generics\\operations.cs",
+              "RelativeToolTip": "Delegates_And _Generics\\operations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:52:31.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CODE CRITERIA\\C#\\Console applications\\Delegates_And _Generics\\Delegates_And _Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates_And _Generics\\Program.cs",
+              "ToolTip": "E:\\CODE CRITERIA\\C#\\Console applications\\Delegates_And _Generics\\Delegates_And _Generics\\Program.cs*",
+              "RelativeToolTip": "Delegates_And _Generics\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:51:48.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
