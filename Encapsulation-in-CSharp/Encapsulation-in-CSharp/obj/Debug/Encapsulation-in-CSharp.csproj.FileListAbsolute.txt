@@ -1,0 +1,7 @@
+E:\CODE CRITERIA\C#\Console applications\Encapsulation-in-CSharp\Encapsulation-in-CSharp\bin\Debug\Encapsulation-in-CSharp.exe.config
+E:\CODE CRITERIA\C#\Console applications\Encapsulation-in-CSharp\Encapsulation-in-CSharp\bin\Debug\Encapsulation-in-CSharp.exe
+E:\CODE CRITERIA\C#\Console applications\Encapsulation-in-CSharp\Encapsulation-in-CSharp\bin\Debug\Encapsulation-in-CSharp.pdb
+E:\CODE CRITERIA\C#\Console applications\Encapsulation-in-CSharp\Encapsulation-in-CSharp\obj\Debug\Encapsulation-in-CSharp.csproj.AssemblyReference.cache
+E:\CODE CRITERIA\C#\Console applications\Encapsulation-in-CSharp\Encapsulation-in-CSharp\obj\Debug\Encapsulation-in-CSharp.csproj.CoreCompileInputs.cache
+E:\CODE CRITERIA\C#\Console applications\Encapsulation-in-CSharp\Encapsulation-in-CSharp\obj\Debug\Encapsulation-in-CSharp.exe
+E:\CODE CRITERIA\C#\Console applications\Encapsulation-in-CSharp\Encapsulation-in-CSharp\obj\Debug\Encapsulation-in-CSharp.pdb
