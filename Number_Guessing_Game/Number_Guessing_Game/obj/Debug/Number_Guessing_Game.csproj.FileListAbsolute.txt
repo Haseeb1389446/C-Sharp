@@ -1,0 +1,7 @@
+E:\CODE CRITERIA\C#\Console applications\Number_Guessing_Game\Number_Guessing_Game\bin\Debug\Number_Guessing_Game.exe.config
+E:\CODE CRITERIA\C#\Console applications\Number_Guessing_Game\Number_Guessing_Game\bin\Debug\Number_Guessing_Game.exe
+E:\CODE CRITERIA\C#\Console applications\Number_Guessing_Game\Number_Guessing_Game\bin\Debug\Number_Guessing_Game.pdb
+E:\CODE CRITERIA\C#\Console applications\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.csproj.AssemblyReference.cache
+E:\CODE CRITERIA\C#\Console applications\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.csproj.CoreCompileInputs.cache
+E:\CODE CRITERIA\C#\Console applications\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.exe
+E:\CODE CRITERIA\C#\Console applications\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.pdb
