@@ -1,0 +1,7 @@
+E:\CODE CRITERIA\C#\Console applications\ExceptionHandling_in_CSharp\ExceptionHandling_in_CSharp\bin\Debug\ExceptionHandling_in_CSharp.exe.config
+E:\CODE CRITERIA\C#\Console applications\ExceptionHandling_in_CSharp\ExceptionHandling_in_CSharp\bin\Debug\ExceptionHandling_in_CSharp.exe
+E:\CODE CRITERIA\C#\Console applications\ExceptionHandling_in_CSharp\ExceptionHandling_in_CSharp\bin\Debug\ExceptionHandling_in_CSharp.pdb
+E:\CODE CRITERIA\C#\Console applications\ExceptionHandling_in_CSharp\ExceptionHandling_in_CSharp\obj\Debug\ExceptionHandling_in_CSharp.csproj.AssemblyReference.cache
+E:\CODE CRITERIA\C#\Console applications\ExceptionHandling_in_CSharp\ExceptionHandling_in_CSharp\obj\Debug\ExceptionHandling_in_CSharp.csproj.CoreCompileInputs.cache
+E:\CODE CRITERIA\C#\Console applications\ExceptionHandling_in_CSharp\ExceptionHandling_in_CSharp\obj\Debug\ExceptionHandling_in_CSharp.exe
+E:\CODE CRITERIA\C#\Console applications\ExceptionHandling_in_CSharp\ExceptionHandling_in_CSharp\obj\Debug\ExceptionHandling_in_CSharp.pdb
