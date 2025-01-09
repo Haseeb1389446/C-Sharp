@@ -1,0 +1,7 @@
+E:\CODE CRITERIA\C#\Console applications\Even_Odd_Checker\Even_Odd_Checker\bin\Debug\Even_Odd_Checker.exe.config
+E:\CODE CRITERIA\C#\Console applications\Even_Odd_Checker\Even_Odd_Checker\bin\Debug\Even_Odd_Checker.exe
+E:\CODE CRITERIA\C#\Console applications\Even_Odd_Checker\Even_Odd_Checker\bin\Debug\Even_Odd_Checker.pdb
+E:\CODE CRITERIA\C#\Console applications\Even_Odd_Checker\Even_Odd_Checker\obj\Debug\Even_Odd_Checker.csproj.AssemblyReference.cache
+E:\CODE CRITERIA\C#\Console applications\Even_Odd_Checker\Even_Odd_Checker\obj\Debug\Even_Odd_Checker.csproj.CoreCompileInputs.cache
+E:\CODE CRITERIA\C#\Console applications\Even_Odd_Checker\Even_Odd_Checker\obj\Debug\Even_Odd_Checker.exe
+E:\CODE CRITERIA\C#\Console applications\Even_Odd_Checker\Even_Odd_Checker\obj\Debug\Even_Odd_Checker.pdb

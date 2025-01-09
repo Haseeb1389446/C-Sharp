@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CODE CRITERIA\\C#\\Console applications\\Even_Odd_Checker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4525CBD-0E90-4BD4-857F-9520E0A4CCEE}|Even_Odd_Checker\\Even_Odd_Checker.csproj|e:\\code criteria\\c#\\console applications\\even_odd_checker\\even_odd_checker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4525CBD-0E90-4BD4-857F-9520E0A4CCEE}|Even_Odd_Checker\\Even_Odd_Checker.csproj|solutionrelative:even_odd_checker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CODE CRITERIA\\C#\\Console applications\\Even_Odd_Checker\\Even_Odd_Checker\\Program.cs",
+              "RelativeDocumentMoniker": "Even_Odd_Checker\\Program.cs",
+              "ToolTip": "E:\\CODE CRITERIA\\C#\\Console applications\\Even_Odd_Checker\\Even_Odd_Checker\\Program.cs",
+              "RelativeToolTip": "Even_Odd_Checker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:46:59.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
