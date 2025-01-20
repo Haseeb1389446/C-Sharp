@@ -1,0 +1,10 @@
+E:\CODE CRITERIA\C#\Console applications\Form_Calculater\Form_Calculater\bin\Debug\Form_Calculater.exe.config
+E:\CODE CRITERIA\C#\Console applications\Form_Calculater\Form_Calculater\bin\Debug\Form_Calculater.exe
+E:\CODE CRITERIA\C#\Console applications\Form_Calculater\Form_Calculater\bin\Debug\Form_Calculater.pdb
+E:\CODE CRITERIA\C#\Console applications\Form_Calculater\Form_Calculater\obj\Debug\Form_Calculater.csproj.AssemblyReference.cache
+E:\CODE CRITERIA\C#\Console applications\Form_Calculater\Form_Calculater\obj\Debug\Form_Calculater.Form1.resources
+E:\CODE CRITERIA\C#\Console applications\Form_Calculater\Form_Calculater\obj\Debug\Form_Calculater.Properties.Resources.resources
+E:\CODE CRITERIA\C#\Console applications\Form_Calculater\Form_Calculater\obj\Debug\Form_Calculater.csproj.GenerateResource.cache
+E:\CODE CRITERIA\C#\Console applications\Form_Calculater\Form_Calculater\obj\Debug\Form_Calculater.csproj.CoreCompileInputs.cache
+E:\CODE CRITERIA\C#\Console applications\Form_Calculater\Form_Calculater\obj\Debug\Form_Calculater.exe
+E:\CODE CRITERIA\C#\Console applications\Form_Calculater\Form_Calculater\obj\Debug\Form_Calculater.pdb
